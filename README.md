@@ -40,7 +40,7 @@ shoppingCart/
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/harshaptmitt/shoppingCart.git
+   git clone https:https://github.com/bhavanaps2002/Shopping-Cart
 2. Open signup.html in your browser to start exploring the app.
 
 3. Navigate through SignUp → Login → Home → Cart for full functionality.
